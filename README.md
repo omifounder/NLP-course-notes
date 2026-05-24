@@ -1,4 +1,6 @@
-# NLP-course-notes - https://nptel.ac.in/courses/106105158
+# NLP-course-notes - 
+
+This repository contains my notes from NLP course: https://nptel.ac.in/courses/106105158 by <br>
 
 PROF. PAWAN GOYAL
 Department of Computer Science and Engineering
