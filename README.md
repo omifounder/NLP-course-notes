@@ -1,4 +1,4 @@
-# NLP-course-notes - 
+# NLP-course-notes (2021)
 
 This repository contains my notes from NLP course: https://nptel.ac.in/courses/106105158 by <br>
 
